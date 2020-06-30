@@ -7,6 +7,7 @@ authors:
   - admin
 title: Bruno Gavazzi
 role: Ingénieur de recherche
+avatar_filename: portrait.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
